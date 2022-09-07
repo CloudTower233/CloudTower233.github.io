@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://yoursite.com</id>
-    <title>Hexo</title>
-    <subtitle>subtitle</subtitle>
+    <title>空梦交响</title>
+    <subtitle>Sora no Symphony</subtitle>
     <icon>http://yoursite.com/images/favicon.ico</icon>
     <link href="http://yoursite.com" />
     <author>
-      <name>John Doe</name>
+      <name>CloudTower</name>
     </author>
     <updated>2022-09-05T14:04:14.666Z</updated>
-    <category term="关键词1" />
-    <category term="关键词2" />
+    <category term="CloudTower" />
+    <category term="CloudTower233" />
     <entry>
         <id>http://yoursite.com/hello-world/</id>
         <title>Hello World</title>
